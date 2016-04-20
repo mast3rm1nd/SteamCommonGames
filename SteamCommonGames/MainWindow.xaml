@@ -1,0 +1,18 @@
+﻿<Window x:Class="SteamCommonGames.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SteamCommonGames"
+        mc:Ignorable="d"
+        Title="Steam Profiles Intersector" Height="356" Width="543" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid>
+        <TextBox x:Name="ProfilesList_textBox" Height="145" Margin="83,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="http://steamcommunity.com/profiles/76561197980159020/games/?tab=all&#xD;&#xA;http://steamcommunity.com/profiles/76561198119329444/games/?tab=all&#xD;&#xA;http://steamcommunity.com/profiles/76561198121155484/games/?tab=all" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Width="437" AcceptsReturn="True"/>
+        <Button x:Name="Go_button" Content="Get common" HorizontalAlignment="Left" Margin="83,161.996,0,0" VerticalAlignment="Top" Width="436.999" Click="Go_button_Click" Height="25">
+        </Button>
+        <TextBox x:Name="CommonsList_textBox" HorizontalAlignment="Left" Height="119" Margin="83,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="437" IsReadOnly="True" VerticalScrollBarVisibility="Auto"/>
+        <Label x:Name="label" Content="Steam APPs&#xD;&#xA;lists links:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label x:Name="label_Copy" Content="Common&#xD;&#xA;APPs:" HorizontalAlignment="Left" Margin="10,192,0,0" VerticalAlignment="Top" Width="68"/>
+
+    </Grid>
+</Window>

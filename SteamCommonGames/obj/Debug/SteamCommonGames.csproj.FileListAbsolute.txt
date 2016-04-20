@@ -1,0 +1,13 @@
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\SteamCommonGames.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\SteamCommonGames.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\SteamCommonGames.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\bin\Debug\Steam Profiles Intersector.exe
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\bin\Debug\Steam Profiles Intersector.pdb
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\Steam Profiles Intersector_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\Steam Profiles Intersector_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\Steam Profiles Intersector.g.resources
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\Steam Profiles Intersector.exe
+E:\Dropbox\!Coding\All_in_one\SteamCommonGames\SteamCommonGames\obj\Debug\Steam Profiles Intersector.pdb
